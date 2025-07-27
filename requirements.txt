@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-pinecone
+langchain-text-splitters
+streamlit
+python-dotenv
+PyPDF2
+pinecone-client
+pandas
+tiktoken
+ipykernel
+jupyter
+jupyterlab
